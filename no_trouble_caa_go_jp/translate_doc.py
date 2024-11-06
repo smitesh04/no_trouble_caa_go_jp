@@ -1,0 +1,2 @@
+from document_translator.translate import translate_document
+translate_document(r"C:/Users/Actowiz/Desktop/Smitesh/Projects/no_trouble_caa_go_jp/no_trouble_caa_go_jp/data.csv", r"C:/Users/Actowiz/Desktop/Smitesh/Projects/no_trouble_caa_go_jp/no_trouble_caa_go_jp/data_translated.csv", "ja", "en")
